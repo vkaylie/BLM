@@ -2,6 +2,9 @@
 .sansserif {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
+  body {
+    background-color: #3d3841;
+  }
   div{background-color: #b1a7ca;
     padding:0;
     border: 1 px solid #b1a7ca;
@@ -14,5 +17,5 @@ p{ background-color: #b1a7ca;
     margin: 50px; }
 
 p{ color: #3d3841;}
-head,h3{background: #ffff00; color:black;}
-h5{background:#ffffbc; color:black;}
+head,h3{background: #b1a7ca; color:#3d3841;}
+h5{background; color:#b1a7ca #3d3841;}
