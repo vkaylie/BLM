@@ -1,4 +1,16 @@
 /*css document*/
-p{
-color:red
-}
+.sansserif {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  div{background-color: #b1a7ca;
+    padding:0;
+    border: 1 px solid #b1a7ca;
+    margin: 0; }
+p{ background-color: #b1a7ca;
+    padding: 10 em;
+    BORDER-WIDTH: 50px;
+    border-style:solid;
+    border-color:#b1a7ca;
+    margin: 50px; }
+
+p{ color: black;}
